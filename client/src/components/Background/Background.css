@@ -1,0 +1,8 @@
+body {
+      /*background-image: url(""./image/image.jpg"");*/
+       background-attachment: fixed !important;
+      background-repeat: no-repeat;
+    background-size: 100%; 
+    /*background-position: right top;*/
+    background-attachment: fixed;
+    }
