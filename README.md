@@ -8,9 +8,6 @@ Tech Used: <br/>
 - DataBase: MongoDB
 - Libraries: React, BootStrap
 - MVC File Structure is used here
-
-Link to the Band Manager App <br/>
-Link: https://warm-inlet-92357.herokuapp.com/
 <br/><br/>
 
 <b>Contact Info</b> <br/>
