@@ -14,7 +14,7 @@ Link: https://warm-inlet-92357.herokuapp.com/
 <br/><br/>
 
 <b>Contact Info</b> <br/>
-Profile: https://twcap.github.io/Profile/ <br/>
+Profile: https://SpacemanTxC.github.io/Profile/ <br/>
 Linkedin: https://www.linkedin.com/in/tate-capra/ <br/>
 Email: TateCapra@outlook.com <br/>
 
