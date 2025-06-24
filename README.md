@@ -12,8 +12,5 @@ Tech Used: <br/>
 
 <b>Contact Info</b> <br/>
 Profile: https://SpacemanTxC.github.io/Profile/ <br/>
-Linkedin: https://www.linkedin.com/in/tate-capra/ <br/>
-Email: TateCapra@outlook.com <br/>
-
 
 *This Repo is for Project at UT Austin Boot Camp
